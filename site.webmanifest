@@ -1,0 +1,12 @@
+{
+  "short_name": "นครโค้ด",
+  "name": "นครโค้ด สอนเขียนโปรแกรม เรียนพิเศษออนไลน์แบบตัวต่อตัว เริ่มต้นเพียง 100 บาทเท่านั้น!",
+  "icons": [{
+    "src": "icon.png",
+    "type": "image/png",
+    "sizes": "192x192"
+  }],
+  "start_url": "/?utm_source=homescreen",
+  "background_color": "#CFFFF1",
+  "theme_color": "#CFFFF1"
+}

@@ -1,0 +1,18 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+/* TEAM */
+
+  Creator: Nakorn Sinpading
+  Contact: nakorndev@gmail.com
+  Facebook: nakorndev
+
+/* THANKS */
+
+  favicon.io
+  flaticon.com
+  storyset.com
+
+/* TECHNOLOGY COLOPHON */
+
+  CSS3, HTML5, Bulma, Visual Studio Code, GitHub
